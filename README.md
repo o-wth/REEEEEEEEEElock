@@ -18,4 +18,7 @@ Finally, upload the .ino file to your arduino and simultaneously run REEEEEEEEEE
 
 
 TODO: get another raspberry pi camera module so I don't have to use my own computer
+
 TODO: make the lock look nicer
+
+-Suhas Nandiraju
